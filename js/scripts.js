@@ -1,6 +1,3 @@
-// plik scripts.js
-
-
 
 // var name = prompt("Podaj swoje imię");
 alert("Cześć " + name);
