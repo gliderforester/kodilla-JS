@@ -10,11 +10,9 @@ alert('Wynik działania to: ' + value);
 if (value > 0) {
   console.log('Wynik jest liczbą dodatnią');
   alert('Wynik jest liczbą dodatnią');
-
 } else if (value < 0) {
   console.log('Wynik jest liczbą ujemną');
   alert('Wynik jest liczbą ujemną');
-
 } else {
   console.log('Wynik jest zerem');
   alert('Wynik jest zerem');
