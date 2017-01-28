@@ -4,6 +4,6 @@ var h = prompt('Podaj wysokość trójkąta w cm');
 
 var triangleArea = .5 * a * h;
 
-console.log('Pole trójkąta wynosi: ' + triangleArea + 'cm');
-alert('Pole trójkąta wynosi: ' + triangleArea + 'cm');
+console.log('Pole trójkąta wynosi: ' + triangleArea.toFixed(2) + 'cm');
+alert('Pole trójkąta wynosi: ' + triangleArea.toFixed(2) + 'cm');
 
